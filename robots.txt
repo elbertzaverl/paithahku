@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oequahtih.ivopauly.com/sitemap.xml
